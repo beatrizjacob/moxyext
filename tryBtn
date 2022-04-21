@@ -1,0 +1,3 @@
+document.getElementById("tryScriptBtn").addEventListener("click", function() {
+        alert("BTN WORKS")
+    })
