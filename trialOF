@@ -1,0 +1,1 @@
+ document.getElementsByClassName('g-page-title')[0].children[0].innerText = "HI"
